@@ -1,6 +1,6 @@
 package polymorphism;
 
-public class main {
+public class mainCars {
 	
 	public static void main(String[] args) {
 		Car car = new Car(8, "Base car");
